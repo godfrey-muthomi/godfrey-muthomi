@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I’m an enthusiastic actuarial analyst with a dee
 
 - **Languages:** Python, SQL, R, HTML, CSS, PHP  
 - **Data Visualization:** Tableau, Matplotlib, Seaborn  
-- **Data Manipulation:** Pandas, tidyverse, SQL  
+- **Data Manipulation:** Pandas, tidyverse, SQL, VBA, Excel macros
 - **Statistical Analysis:** Hypothesis testing, Regression analysis  
 - **Machine Learning:** Scikit-learn, TensorFlow  
 - **Tools:** Jupyter Notebook, R Studio, Git, Excel
