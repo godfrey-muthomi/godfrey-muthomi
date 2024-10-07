@@ -35,6 +35,6 @@ Welcome to my GitHub profile! I’m an enthusiastic actuarial analyst with a dee
 
 ## 📫 Let's Connect!
 
-I'm always excited to collaborate and share knowledge. You can reach me via <a href="mailto:muthomigodfrey1@gmail.com">Email</a> or connect with me on <a href="https://www.linkedin.com/in/godfrey-muthomi-290277236/">LinkedIn</a>. Feel free to explore my repositories and projects on this GitHub profile. Don’t hesitate to reach out if you have any questions or opportunities for collaboration!
+I'm always excited to collaborate and share knowledge. You can reach me via <a href="mailto:muthomigodfrey1@gmail.com">Email</a> or connect with me on <a href="httpss://www.linkedin.com/in/godfrey-muthomi-290277236/">LinkedIn</a>. Feel free to explore my repositories and projects on this GitHub profile. Don’t hesitate to reach out if you have any questions or opportunities for collaboration!
 
 Looking forward to connecting with you and exploring the dynamic world of data analytics and tech innovation together!
