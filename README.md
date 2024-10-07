@@ -26,20 +26,10 @@ Welcome to my GitHub profile! I’m an enthusiastic actuarial analyst with a dee
 
 ## 💻 Projects:
 
-- **Financial Risk Modeling:**  
-  Utilized Python and R to build a model assessing financial risks, focusing on predictive analytics for risk mitigation strategies.
-
-- **Data Cleaning and Visualization:**  
-  Employed SQL to clean and preprocess large datasets, followed by data visualization using Tableau to uncover insights and trends.
-
-- **Actuarial Reserving Tool:**  
-  Developed a tool using Python to automate the calculation of insurance reserves, integrating actuarial techniques with data analytics.
-
-- **Customer Segmentation Analysis:**  
-  Conducted customer segmentation using R, applying clustering algorithms to identify key customer groups, and visualized the results using Seaborn.
-
-- **Interactive Financial Dashboard:**  
-  Created a dynamic financial dashboard in Excel that integrates pivot tables, charts, and slicers to track and analyze financial KPIs.
+- **Insurance Claims Reserving Using Chain Ladder:**  
+  Developed a Python-based model for estimating insurance claims reserves using the Chain Ladder method.
+- **Product Development and Profitability Testing:**  
+  Developed a hypothetical insurance product and executed profitability and sensitivity tests using python.
 
 ---
 
