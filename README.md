@@ -20,7 +20,6 @@ Welcome to my GitHub profile! I’m an enthusiastic actuarial analyst with a dee
 - **Bachelor's Degree in Actuarial Science With IT**  
 - **Data Analytics Certificate - Google, Coursera**  
 - **Cybersecurity Fundamentals Badge - IBM**  
-- **Certified Public Accountant (CPA) Student**
 
 ---
 
